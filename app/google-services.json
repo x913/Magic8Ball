@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600390177798",
+    "firebase_url": "https://baser11265-5d38f.firebaseio.com",
+    "project_id": "baser11265-5d38f",
+    "storage_bucket": "baser11265-5d38f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600390177798:android:ef43a46fce90ef1e065f87",
+        "android_client_info": {
+          "package_name": "biz.nusso.magic8ball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600390177798-uhu104kiqjfonf9os9fp85rqcdso2fuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABYNTqumACDeWC6TkYDOn0b28iI67IRXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600390177798-uhu104kiqjfonf9os9fp85rqcdso2fuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

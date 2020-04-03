@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Magic Happy Ball</string>
+    <string name="title">Ask the ball about anything</string>
+    <string name="btn_title">ASK THE BALL</string>
+    <string name="remote_url">https://google.com</string>
+    <string name="facebook_app_id">352017989070285</string>
+</resources>
